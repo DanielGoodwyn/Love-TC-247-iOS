@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Firebase.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Love SF 247.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Love SF 247Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Love SF 247UITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0F8127A2FD0DCF3CC3CCDAEBD6DE0022</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3278B371405911B300F02F36494D419B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>569735B422E0E4CEEFC5C6955AFDE3A5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C06900910C3A6326D437273407CBB0AC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F1CEAF3E72C555B396502B76821D3ED6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
